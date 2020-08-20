@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Football_ETL_Package", "Football_ETL_Package.dtproj", "{B53B5D94-EDC0-4DDB-9F2C-9101AFFA8BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B53B5D94-EDC0-4DDB-9F2C-9101AFFA8BA6}.Development|Default.ActiveCfg = Development
+		{B53B5D94-EDC0-4DDB-9F2C-9101AFFA8BA6}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AA6C63E-AFE6-4A28-90BE-98F23F975426}
+	EndGlobalSection
+EndGlobal
